@@ -1,2 +1,2 @@
 # sudoku
-Еhe code for solving the Sudoku game
+The code for solving the Sudoku game
